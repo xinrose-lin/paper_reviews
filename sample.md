@@ -1,3 +1,3 @@
 ### sample review
 
-[ ] this is a checklist
+- [x] this is a checklist
